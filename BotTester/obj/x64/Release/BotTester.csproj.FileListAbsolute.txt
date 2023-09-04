@@ -1,0 +1,10 @@
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\bin\x64\Release\BotTester.exe.config
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\bin\x64\Release\BotTester.exe
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\bin\x64\Release\BotTester.pdb
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Release\BotTester.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Release\BotTester.MainForm.resources
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Release\BotTester.Properties.Resources.resources
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Release\BotTester.csproj.GenerateResource.cache
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Release\BotTester.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Release\BotTester.exe
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Release\BotTester.pdb

@@ -1,0 +1,31 @@
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\bin\x64\Debug\BotTester.exe.config
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\bin\x64\Debug\BotTester.exe
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\bin\x64\Debug\BotTester.pdb
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.csproj.AssemblyReference.cache
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.MainForm.resources
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.Properties.Resources.resources
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.csproj.GenerateResource.cache
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.csproj.CoreCompileInputs.cache
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.exe
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\bin\x64\Debug\BotTester.exe.config
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\bin\x64\Debug\BotTester.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\bin\x64\Debug\BotTester.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.csproj.AssemblyReference.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.MainForm.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.Properties.Resources.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.csproj.GenerateResource.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Бот для скальпирования\Бот для скальпирования (CPU)\BotTester\obj\x64\Debug\BotTester.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\bin\x64\Debug\BotTester.exe.config
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\bin\x64\Debug\BotTester.exe
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\bin\x64\Debug\BotTester.pdb
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Debug\BotTester.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Debug\BotTester.MainForm.resources
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Debug\BotTester.Properties.Resources.resources
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Debug\BotTester.csproj.GenerateResource.cache
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Debug\BotTester.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Debug\BotTester.exe
+D:\Рабочий стол\C#\Новая папка\Bot for scalping\BotTester\obj\x64\Debug\BotTester.pdb

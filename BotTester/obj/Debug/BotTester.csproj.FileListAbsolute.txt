@@ -1,0 +1,30 @@
+D:\яя\BotTester\BotTester\obj\Debug\BotTester.Properties.Resources.resources
+D:\яя\BotTester\BotTester\obj\Debug\BotTester.csproj.GenerateResource.cache
+D:\яя\BotTester\BotTester\obj\Debug\BotTester.csproj.CoreCompileInputs.cache
+D:\яя\BotTester\BotTester\bin\Debug\BotTester.exe.config
+D:\яя\BotTester\BotTester\bin\Debug\BotTester.exe
+D:\яя\BotTester\BotTester\bin\Debug\BotTester.pdb
+D:\яя\BotTester\BotTester\obj\Debug\BotTester.exe
+D:\яя\BotTester\BotTester\obj\Debug\BotTester.pdb
+D:\яя\BotTester\BotTester\obj\Debug\BotTester.csproj.AssemblyReference.cache
+D:\яя\BotTester\BotTester\obj\Debug\BotTester.MainForm.resources
+D:\яя\Графики\Бот для скальпирования\BotTester\bin\Debug\BotTester.exe.config
+D:\яя\Графики\Бот для скальпирования\BotTester\bin\Debug\BotTester.exe
+D:\яя\Графики\Бот для скальпирования\BotTester\bin\Debug\BotTester.pdb
+D:\яя\Графики\Бот для скальпирования\BotTester\obj\Debug\BotTester.csproj.AssemblyReference.cache
+D:\яя\Графики\Бот для скальпирования\BotTester\obj\Debug\BotTester.MainForm.resources
+D:\яя\Графики\Бот для скальпирования\BotTester\obj\Debug\BotTester.Properties.Resources.resources
+D:\яя\Графики\Бот для скальпирования\BotTester\obj\Debug\BotTester.csproj.GenerateResource.cache
+D:\яя\Графики\Бот для скальпирования\BotTester\obj\Debug\BotTester.csproj.CoreCompileInputs.cache
+D:\яя\Графики\Бот для скальпирования\BotTester\obj\Debug\BotTester.exe
+D:\яя\Графики\Бот для скальпирования\BotTester\obj\Debug\BotTester.pdb
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\bin\Debug\BotTester.exe.config
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\bin\Debug\BotTester.exe
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\bin\Debug\BotTester.pdb
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\Debug\BotTester.csproj.AssemblyReference.cache
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\Debug\BotTester.MainForm.resources
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\Debug\BotTester.Properties.Resources.resources
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\Debug\BotTester.csproj.GenerateResource.cache
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\Debug\BotTester.csproj.CoreCompileInputs.cache
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\Debug\BotTester.exe
+D:\яя\Графики\Бот для скальпирования (CPU)\BotTester\obj\Debug\BotTester.pdb
